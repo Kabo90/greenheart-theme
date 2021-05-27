@@ -1,0 +1,1171 @@
+/*
+Theme Name: Green Heart Theme
+Text Domain: Green Heart Theme
+Version: 1.0
+Description: Simple and Modern Desgin Theme
+Tags: Simple, Modern, Responsive
+Author: MKabo
+Author URI: https://Mkabo.com
+*/
+
+
+
+
+.copyRights a{
+text-decoration:none;
+color:white;
+font-size:16px;
+}
+
+.header{
+	background-color:#146738;
+	width:100%;
+	color:white;
+	border:1px solid white;
+}
+
+
+/*logo-text*/
+.header h1{
+	margin-left:10px;
+	margin-left:15px;
+	font-size: 4vw;
+
+
+}
+
+
+/*logo*/
+.headingLogo{
+	text-decoration:none;
+	color:white;
+}
+
+
+
+/*logo-img*/
+.headingLogo img{
+   margin-left:25px;
+}
+
+
+
+.logoContainer{
+	width:50%;
+	background-color::#146738;
+}
+
+
+
+.siteLogo{
+	width:30%;
+	margin-left:10px;
+}
+
+
+
+
+.wrapper{
+	width:100%;
+}
+
+
+
+.sideBar{
+	background-color:#146738;
+	width:100%;
+	color:white;
+	text-align:left;
+	min-height:1000px;
+	padding-top:50px;
+	padding-bottom:1px;
+	margin-bottom:100px;
+}
+
+
+
+.sideBar section ul {
+list-style-type:none;
+margin:0;
+padding:0;
+width:97%;
+}
+
+
+
+
+
+
+
+.main{
+	background-color:white;
+	width:100%;
+	margin-top:10px;
+
+}
+
+
+.main .posts > h3{
+	margin-left:10px;
+	
+}
+
+
+
+
+
+
+
+.footer{
+	background-color:#146738;
+	width:100%;
+	clear:left;
+	color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	border:1px solid white;
+	clear:right;
+
+	
+}
+
+
+
+.footer section ul {
+list-style-type:none;
+margin:0;
+padding:0;
+width:97%;
+}
+
+
+
+/*img{width:100%;}*/
+
+
+
+
+
+
+.widget_search .widget-title{
+display:none;
+}
+
+.widget_search{
+margin-bottom:100px;
+width:100%;
+margin:auto;
+/*background-color:red;*/
+
+}
+
+
+
+/*sideBar Search*/
+.searchform input{
+	width:60%;
+
+
+}
+
+
+/*sideBar Search*/
+.searchform #searchsubmit{
+	width:30%;
+}
+
+
+
+/*headerSearchOnly*/
+.search-container{
+	margin:auto;
+	width:90%;
+	margin-bottom:10px;
+}
+
+/*headerSearchOnly*/
+.search-container input{
+margin:auto;
+width:50%;
+font-size:16px;
+}
+
+
+/*headerSearchOnly*/
+.search-container #searchsubmit{
+	width:80px
+}
+
+
+.screen-reader-text{
+	display:none;
+}
+
+
+
+
+/*menu*/
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+  min-height:50px;
+}
+
+
+
+.topnav #myLinks {
+  background-color:#333;
+  display:none;
+  width:80%;
+  margin:auto;
+  
+}
+
+
+
+.topnav li {
+	list-style-type:none;
+
+
+}
+
+
+ #myLinks li a{
+	 background-color:#333;
+ }
+ 
+ 
+ .topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+  text-align:center;
+  margin:auto;
+}
+
+
+
+
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.postDate{
+	background-color:gray;
+	color:white;
+	padding:5px;
+	margin-left:5px;
+}
+
+.postTags{
+	background-color:gray;
+	padding:5px;
+	margin:10px;
+	
+}
+
+
+
+.postTags a{
+
+   text-decoration: none;
+   background-color:#146738;
+   color:white;
+   padding:5px;
+   border-radius:10px;
+
+
+}
+
+
+
+
+.commentsNumber{
+	margin-left:10px;
+}
+
+
+
+.comment-author img{
+	width:50px;
+	height:50px;
+	
+}
+
+
+
+.comments-area{
+	margin-left:20px;
+}
+
+
+.comment-form #submit{
+	margin-left:10px;
+}
+
+
+
+.comment-form-comment label{
+	display:none;
+}
+
+
+
+.comment-form-comment textarea{
+	margin-left:10px;
+}
+
+
+
+
+
+
+
+/*socialMedia*/
+.sideBar .socialMedia .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+/*socialMedia*/
+
+
+
+
+
+
+/*sidebar-widgets*/
+.sideBar .widgets{
+margin:auto;
+	width:90%;
+	background-color:#146738;
+	margin-bottom:100px;
+	margin-top:10px;
+	
+}
+
+
+
+
+
+
+.sideBar .widget-title{
+text-align:left;
+font-size:18px;
+color:white;
+background-color:#333;
+}
+
+
+
+.sideBar .widgets a{
+	font-size:12px;
+	color:black;
+	text-decoration:none;
+
+	
+}
+
+
+
+.sideBar .screen-reader-text{
+display:none;
+}
+
+
+.sideBar .widgets ul{
+list-style-type:none;
+
+}
+
+
+.sideBar .widgets li{
+	
+  list-style-type: none;
+  position: relative;
+  padding-left: 15px;
+  color:black;
+
+}
+
+
+
+.sideBar .widgets li:before {
+ /* content: "\25BA \0020";
+  font-size: 10px;
+  position: absolute;
+  top: 12px;
+  left: -10px;
+  color:black;
+  */
+}
+
+
+
+
+
+.widget_recent_entries{
+	margin-bottom:100px;
+}
+
+
+.widget_recent_entries li{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+color:black;
+
+}
+
+
+
+.widget_pages{
+margin-bottom:100px;
+}
+
+
+
+.widget_pages li{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+
+}
+
+
+
+.widget_archive{
+margin-bottom:100px;
+}
+
+
+
+
+.widget_archive li{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+color:black;
+
+}
+
+
+
+
+.widget_categories{
+margin-bottom:100px;
+}
+
+
+
+.widget_categories li{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+color:black;
+
+}
+
+
+
+.widget_meta{
+margin-bottom:100px;
+}
+
+
+
+.widget_meta li{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+}
+
+
+.widget_tag_cloud{
+margin-bottom:100px;
+}
+
+
+
+
+.widget_tag_cloud .tagcloud{
+text-align:left;
+}
+
+
+.widget_tag_cloud .tagcloud a{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+color:black;
+
+}
+
+
+
+.widget_recent_comments{
+margin-bottom:100px;
+}
+
+
+.widget_recent_comments li{
+padding-top:10px;
+padding-bottom:10px;
+background-color:white;
+margin-bottom:1px;
+text-align:left;
+}
+
+
+
+
+
+
+.widget_calendar{
+	color:black;
+	margin-bottom:100px;
+	margin-top:100px;
+}
+
+
+.widget_calendar .widget-title{
+	display:none;
+}
+
+
+.calendar_wrap{
+
+}
+
+
+
+
+.wp-calendar-table{
+	background-color:white;
+}
+
+
+
+.wp-calendar-table caption{
+	background-color:white;
+}
+
+
+/*end-sidebar-widgets*/
+
+
+
+
+/*footer-widgets*/
+
+
+/*widget wrapper*/
+.footer .widgets{
+	margin:auto;
+	width:90%;
+	background-color:black;
+}
+
+
+.footer section{
+   width:90%;
+   /*background-color:blue;*/
+   margin-left:2%;
+   text-align:left;
+   float:left;
+   min-height:300px;
+}
+
+
+.footer section .widget-title{
+   text-align:left;
+   background-color:#333;
+
+}
+
+
+
+.footer .widgets ul{
+list-style-type:none;
+}
+
+
+
+
+
+.footer .widgets li{
+	
+  list-style-type: none;
+  position: relative;
+  padding-left: 15px;
+  color:black;
+  width:100%;
+}
+
+.footer .widgets li:before {
+ /* content: "\25BA \0020";
+  font-size: 10px;
+  position: absolute;
+  top: 12px;
+  left: -10px;
+  color:white;
+  color:black;
+  */
+}
+
+
+.footer .widgets a{
+	font-size:12px;
+    color:black;
+	text-decoration:none;
+
+	
+}
+
+
+.wp-calendar-table{
+	margin:auto;
+}
+
+
+.footer .widget_calendar{
+}
+
+
+.footer #searchform{
+	margin-left:50px;
+}
+
+.footer .screen-reader-text{
+display:none;
+}
+
+
+.copyRights{
+	clear:left;
+}
+
+
+/*end-footer-widgets*/
+
+
+
+
+
+
+.postTitle{
+width:100%;
+margin:auto;
+text-align:left;
+color:black;
+text-decoration:none;
+color:white;
+font-weight:bold;
+text-transform: capitalize;
+	background-color:#333;
+}
+
+
+.postTitle a{
+text-decoration:none;
+font-size:16px;
+color:white;
+text-transform: capitalize;
+}
+
+
+
+
+.postPara{
+width:100%;
+margin:auto;
+background:white;
+color:black;
+text-decoration:none;
+text-align:left;
+color:black;
+
+}
+
+
+
+
+.postThumbnail{	
+width:80%;
+margin:auto;
+background:white;
+margin-bottom:150px;
+}
+
+
+
+.postThumbnail a{	
+text-decoration:none;
+}
+
+
+
+
+.postThumbnail img{	
+width:100%;
+height:100%;
+}
+
+
+
+
+.postTitleSinglePost{
+width:80%;
+margin:auto;
+color:black;
+font-size:18px;
+font-weight:bold;
+text-transform: capitalize;
+margin-top:50px;
+}
+
+
+
+.postParaSinglePost{
+width:80%;
+margin:auto;
+}
+
+
+
+
+.nav-links{
+margin-bottom:20px;
+}
+
+
+
+.page-numbers{
+background-color:#333;
+border-radius:80px;
+padding:10px;
+margin-left:10px;
+color:white;
+
+}
+
+
+
+.separator{
+width:80%;
+}
+
+
+
+/*desktop*/
+@media only screen and (min-width: 800px) {
+	
+	
+
+	
+	
+.header{
+	background-color:#146738;
+	width:99%;
+	margin:auto;
+	color:white;
+	border:1px solid white;
+}
+
+
+
+/*logo-img*/
+.headingLogo img{
+   margin-left:35px;
+}
+
+
+
+ .topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  float:left;
+}
+
+
+  .topnav a.icon {
+ display:none;
+}
+
+
+
+.topnav #myLinks {
+  background-color:#333;
+  display:inline;
+  width:80%;
+  margin:auto;
+  
+}
+
+
+
+
+
+.separator{
+display:none;
+}
+
+
+
+/*desktop*/
+
+.sideBar{
+	background-color:#146738;
+	width:24%;
+	float:right;
+	color:white;
+	text-align:left;
+	min-height:1000px;
+	padding-top:50px;
+	border-color:white;
+    border-style: groove;
+	
+
+}
+
+
+
+
+/*sidebar-widgets*/
+.sideBar .widgets{
+    margin:auto;
+	width:90%;
+	margin-bottom:100px;
+	margin-top:10px;
+	background-color:#146738;
+
+	
+}
+
+
+
+
+
+.sideBar .widget-title{
+text-align:left;
+font-size:18px;
+color:white;
+background-color:#333;
+}
+
+
+
+
+.main{
+	background-color:white;
+	width:75%;
+	float:right;
+
+}
+
+
+.main .posts > h3{
+	margin-left:10px;
+	
+}
+
+
+
+
+.postTitle{
+width:100%;
+margin:auto;
+text-align:left;
+text-decoration:none;
+color:white;
+font-size:25px;
+font-weight:bold;
+text-transform: capitalize;
+}
+
+
+
+
+
+
+.postThumbnail{	
+width:50%;
+margin:auto;
+background:white;
+margin-bottom:150px;
+	
+}
+
+
+.postThumbnail img{	
+width:100%;
+height:100%;
+}
+
+
+.postThumbnail a{	
+text-decoration:none;
+}
+
+
+
+.postPara{
+width:100%;
+margin:auto;
+background:white;
+color:black;
+}
+
+.postPara a{
+color:black;
+text-decoration:none;
+
+}
+
+
+
+
+
+.postTitleSinglePost{
+width:80%;
+margin:auto;
+color:black;
+font-size:25px;
+font-weight:bold;
+text-transform: capitalize;
+margin-top:50px;
+}
+
+
+
+.postParaSinglePost{
+width:80%;
+margin:auto;
+}
+
+
+
+.footer .widgets section .widget-title{
+   text-align:center;
+   background-color:#333;
+   width:100%;
+}
+
+
+
+.footer section{
+   width:40%;
+   /*background-color:blue;*/
+   margin-left:5%;
+   text-align:center;
+   float:left;
+   min-height:300px;
+}
+
+
+
+.footer section ul {
+list-style-type:none;
+margin:0;
+padding:0;
+width:97%;
+}
+
+
+
+
+.searchform input{
+	width:60%;
+}
+
+
+.searchform #searchsubmit{
+	width:30%;
+}
+
+
+
+
+
+/*headerSearchOnly*/
+.search-container{
+	margin:auto;
+	width:60%;
+	margin-bottom:10px;
+
+}
+
+/*headerSearchOnly*/
+.search-container input{
+margin:auto;
+width:60%;
+padding:10px;
+}
+
+
+/*headerSearchOnly*/
+.search-container #searchsubmit{
+	width:20%;
+	padding:10px;
+}
+
+
+
+
+
+}
+/*end menu for desktop*/
+
+
+
+
+
+
+
+/*pxbackground*/
+
+.textwidget{height:700px;}
+
+
+
+.parallax { 
+
+height:700px;
+
+/*background-image: url("https://wpthemes.mkabo.com/wp-content/uploads/2021/01/pexels-artem-beliaikin-2106776-scaled.jpg");*/
+
+background-attachment: fixed;
+
+background-position:center;
+
+background-repeat: no-repeat;
+
+background-size: 100%;
+
+clear:both;
+
+}
+
+
+
+.parallax-content {
+
+width:100%;
+
+height:100%;
+
+margin:0 auto;
+
+color:#FFF;
+
+padding-top:50px;
+
+}
+
+/*pxb*/
+
+
+
+
