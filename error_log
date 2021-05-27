@@ -1,0 +1,64 @@
+[27-Jan-2021 04:03:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php on line 35
+[27-Jan-2021 04:03:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php on line 35
+[27-Jan-2021 04:04:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php on line 35
+[27-Jan-2021 04:08:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/front-page.php on line 35
+[28-Jan-2021 01:11:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:12:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 25
+[28-Jan-2021 01:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 1
+[28-Jan-2021 01:25:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 1
+[28-Jan-2021 01:25:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mkabnbjb/mostadera.com/learn/wp-content/themes/greenheart/archive.php on line 1
